@@ -1,0 +1,8 @@
+----- Portfolio Summary -----
+
+AAPL | Quantity: 3 | Price: $180 | Value: $540
+TSLA | Quantity: 3 | Price: $250 | Value: $750
+GOOG | Quantity: 4 | Price: $150 | Value: $600
+AMZN | Quantity: 8 | Price: $200 | Value: $1600
+
+Total Investment Value: $3490
